@@ -1,0 +1,166 @@
+{
+  "participants": {
+    "purple": "019bc0ce-e032-70c3-86ec-b62e2e527a22"
+  },
+  "results": [
+    {
+      "benchmark": "reflena-scientific-v1",
+      "num_problems": 30,
+      "score": 6.0,
+      "total": 38.25,
+      "accuracy": 0.1568627450980392,
+      "details": [
+        {
+          "problem": "black_scholes_call_price",
+          "score": 1.0,
+          "total": 1.5
+        },
+        {
+          "problem": "implied_volatility_newton",
+          "score": 0.0,
+          "total": 1.0
+        },
+        {
+          "problem": "monte_carlo_option_pricing",
+          "score": 0.0,
+          "total": 1.0
+        },
+        {
+          "problem": "portfolio_variance",
+          "score": 0.0,
+          "total": 1.0
+        },
+        {
+          "problem": "value_at_risk_gaussian",
+          "score": 0.0,
+          "total": 1.0
+        },
+        {
+          "problem": "michaelis_menten_rate",
+          "score": 1.5,
+          "total": 1.5
+        },
+        {
+          "problem": "competitive_inhibition_rate",
+          "score": 0.0,
+          "total": 1.0
+        },
+        {
+          "problem": "gibbs_free_energy",
+          "score": 0.0,
+          "total": 1.0
+        },
+        {
+          "problem": "ligand_binding_fraction",
+          "score": 0.0,
+          "total": 1.5
+        },
+        {
+          "problem": "hill_equation_cooperativity",
+          "score": 1.0,
+          "total": 1.0
+        },
+        {
+          "problem": "spectral_radius_power_iteration",
+          "score": 0.0,
+          "total": 1.5
+        },
+        {
+          "problem": "condition_number_2norm",
+          "score": 0.0,
+          "total": 1.0
+        },
+        {
+          "problem": "least_squares_solution",
+          "score": 0.0,
+          "total": 1.0
+        },
+        {
+          "problem": "qr_orthogonality_error",
+          "score": 0.0,
+          "total": 1.5
+        },
+        {
+          "problem": "matrix_exponential_trace",
+          "score": 0.0,
+          "total": 1.0
+        },
+        {
+          "problem": "kepler_orbital_period",
+          "score": 1.5,
+          "total": 1.5
+        },
+        {
+          "problem": "escape_velocity",
+          "score": 1.0,
+          "total": 1.0
+        },
+        {
+          "problem": "schwarzschild_radius",
+          "score": 0.0,
+          "total": 1.0
+        },
+        {
+          "problem": "stellar_luminosity",
+          "score": 0.0,
+          "total": 1.5
+        },
+        {
+          "problem": "hubble_recession_velocity",
+          "score": 0.0,
+          "total": 1.0
+        },
+        {
+          "problem": "arrhenius_rate_constant",
+          "score": 0.0,
+          "total": 1.5
+        },
+        {
+          "problem": "equilibrium_extent",
+          "score": 0.0,
+          "total": 1.0
+        },
+        {
+          "problem": "beer_lambert_concentration",
+          "score": 0.0,
+          "total": 1.0
+        },
+        {
+          "problem": "nernst_potential",
+          "score": 0.0,
+          "total": 1.0
+        },
+        {
+          "problem": "boltzmann_population_ratio",
+          "score": 0.0,
+          "total": 1.0
+        },
+        {
+          "problem": "heat_equation_1d_step",
+          "score": 0.0,
+          "total": 2.25
+        },
+        {
+          "problem": "ray_triangle_intersection",
+          "score": 0.0,
+          "total": 1.75
+        },
+        {
+          "problem": "dominant_eigenvalue",
+          "score": 0.0,
+          "total": 1.75
+        },
+        {
+          "problem": "quantum_probability_flux",
+          "score": 0.0,
+          "total": 1.75
+        },
+        {
+          "problem": "newton_root",
+          "score": 0.0,
+          "total": 1.75
+        }
+      ]
+    }
+  ]
+}
