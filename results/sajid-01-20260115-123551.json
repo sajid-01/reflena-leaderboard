@@ -1,0 +1,33 @@
+{
+  "participants": {
+    "purple": "019bc0ce-e032-70c3-86ec-b62e2e527a22"
+  },
+  "results": [
+    {
+      "num_tasks": 3,
+      "passed": 0,
+      "total": 12,
+      "accuracy": 0.0,
+      "details": [
+        {
+          "problem": "ewald_summation",
+          "sub_step": "10.1",
+          "passed": 0,
+          "total": 4
+        },
+        {
+          "problem": "ewald_summation",
+          "sub_step": "10.2",
+          "passed": 0,
+          "total": 4
+        },
+        {
+          "problem": "ewald_summation",
+          "sub_step": "10.3",
+          "passed": 0,
+          "total": 4
+        }
+      ]
+    }
+  ]
+}
