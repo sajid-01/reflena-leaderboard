@@ -1,0 +1,12 @@
+[green_agent]
+agentbeats_id = "019bc0cd-8365-7ae2-8499-8d46332e06f6"
+env = { LOG_LEVEL = "INFO" }
+
+[[participants]]
+agentbeats_id = "019bc0ce-e032-70c3-86ec-b62e2e527a22"
+name = "purple"
+env = {}
+
+[config]
+task = "reverse_string"
+input = "hello"
