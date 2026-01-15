@@ -1,0 +1,495 @@
+{
+  "participants": {
+    "purple": "019bc0ce-e032-70c3-86ec-b62e2e527a22"
+  },
+  "results": [
+    {
+      "num_problems": 80,
+      "passed": 0,
+      "total": 243,
+      "accuracy": 0.0,
+      "details": [
+        {
+          "problem": "ewald_summation",
+          "sub_step": "10.1",
+          "passed": 0,
+          "total": 4
+        },
+        {
+          "problem": "Berendsen_thermostat",
+          "sub_step": "77.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "GADC_entanglement",
+          "sub_step": "11.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Schrodinger_DFT_with_SCF",
+          "sub_step": "12.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Maxwell_Equation_Solver",
+          "sub_step": "13.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "CG",
+          "sub_step": "1.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Gaussian_Beam_Focus",
+          "sub_step": "2.1",
+          "passed": 0,
+          "total": 4
+        },
+        {
+          "problem": "Gauss_Seidel",
+          "sub_step": "3.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Householder_QR",
+          "sub_step": "74.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "IncomChol",
+          "sub_step": "4.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Lanczos",
+          "sub_step": "5.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Spatial_filters_I",
+          "sub_step": "6.1",
+          "passed": 0,
+          "total": 4
+        },
+        {
+          "problem": "Spatial_filters_II",
+          "sub_step": "7.1",
+          "passed": 0,
+          "total": 4
+        },
+        {
+          "problem": "Spatial_filters_III",
+          "sub_step": "8.1",
+          "passed": 0,
+          "total": 4
+        },
+        {
+          "problem": "Weighted_Jacobi",
+          "sub_step": "9.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Brownian_motion_in_the_optical_tweezer",
+          "sub_step": "14.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Crank_Nicolson_for_time_dependent_Schrodinger",
+          "sub_step": "15.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Davidson_method",
+          "sub_step": "16.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "linear_tetrahedron_method",
+          "sub_step": "17.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "NURBS",
+          "sub_step": "18.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "n_tangle",
+          "sub_step": "19.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "phonon_angular_momentum",
+          "sub_step": "20.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Absorption_coefficient_for_alloy_GaAlAs",
+          "sub_step": "21.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Beam_translation_reexpansion",
+          "sub_step": "22.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Blahut_Arimoto",
+          "sub_step": "23.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Burgers_equation",
+          "sub_step": "24.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Chaotic_Dynamics_Pendulum",
+          "sub_step": "78.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "CRM_in_chemostat",
+          "sub_step": "25.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "CRM_in_serial_dilution",
+          "sub_step": "26.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Design_trade_offs_for_high_speed_photodetectors",
+          "sub_step": "27.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Gaussian_Beam_Intensity",
+          "sub_step": "28.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Gram_Schmidt_orthogonalization",
+          "sub_step": "29.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "graphene_tight_binding",
+          "sub_step": "75.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "helium_slater_jastrow_wavefunction",
+          "sub_step": "30.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "independent_component_analysis",
+          "sub_step": "31.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Multiparticle_dynamics_in_the_optical_tweezer_array",
+          "sub_step": "32.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "phase_diagram_chern_haldane_model_v1",
+          "sub_step": "33.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "PN_diode_band_diagram",
+          "sub_step": "34.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Quantum_Dot_Absorption_Spectrum",
+          "sub_step": "35.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Quasi_Fermi_levels_of_photo_resistor_out_of_equilibrium",
+          "sub_step": "36.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "ray_optics_spherical_aberration",
+          "sub_step": "37.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Reciprocal_lattice_vector",
+          "sub_step": "38.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Reflection_spectra_for_a_Distributed_Bragg_Reflector",
+          "sub_step": "39.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Spliting_Operator",
+          "sub_step": "40.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Structural_stability_in_serial_dilution",
+          "sub_step": "41.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "The_threshold_current_for_multi_quantum_well_lasers",
+          "sub_step": "42.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "two_end_fiber_laser_generator",
+          "sub_step": "43.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "two_mer_entropy",
+          "sub_step": "44.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "finite_difference_heat_equation",
+          "sub_step": "45.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "helium_atom_vmc",
+          "sub_step": "46.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Internal_Energy",
+          "sub_step": "47.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "MEELS_conversion",
+          "sub_step": "48.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "nbody",
+          "sub_step": "49.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Nose_Hoover_chain_thermostat",
+          "sub_step": "79.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "protein_dna_binding",
+          "sub_step": "76.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Replica_symmetry_breaking",
+          "sub_step": "50.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "SciCode_Example",
+          "sub_step": "51.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Shooting_algo_H_atom",
+          "sub_step": "52.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Stochastic_Lotka_Volterra",
+          "sub_step": "53.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "SUPG",
+          "sub_step": "54.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Swift_Hohenberg",
+          "sub_step": "55.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "temporal_niches",
+          "sub_step": "56.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "1D_harmonic_oscillator_numerov_shooting",
+          "sub_step": "57.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Tolman_Oppenheimer_Volkoff_star",
+          "sub_step": "58.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "VQE",
+          "sub_step": "59.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Widom_particle_insertion",
+          "sub_step": "60.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Xray_conversion_I",
+          "sub_step": "61.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "dmrg",
+          "sub_step": "62.1",
+          "passed": 0,
+          "total": 0
+        },
+        {
+          "problem": "Estimating_Stock_Option_Price",
+          "sub_step": "63.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "GCMC",
+          "sub_step": "64.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "GHZ_protocol_fidelity",
+          "sub_step": "65.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "kolmogorov_crespi_potential",
+          "sub_step": "66.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "LEG_Dyson_equation_bulk",
+          "sub_step": "67.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "Anderson_thermostat",
+          "sub_step": "80.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "helium_atom_dmc",
+          "sub_step": "68.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "LEG_Dyson_equation_semi_infinite",
+          "sub_step": "69.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "neutrino_oscillation",
+          "sub_step": "70.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "GADC_rev_coherent_info",
+          "sub_step": "71.1",
+          "passed": 0,
+          "total": 3
+        },
+        {
+          "problem": "ising_model",
+          "sub_step": "72.1",
+          "passed": 0,
+          "total": 4
+        },
+        {
+          "problem": "Xray_conversion_II",
+          "sub_step": "73.1",
+          "passed": 0,
+          "total": 3
+        }
+      ]
+    }
+  ]
+}
