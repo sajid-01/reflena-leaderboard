@@ -1,0 +1,17 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/sajid-01/reflena@sha256:196f5a0be5204a2a7d556bda88cad81c343943c3bd96cb279187a0d2d94b4807",
+    "purple": "ghcr.io/sajid-01/baseline-reflena@sha256:e5bf8c67ce30183e1cbda793b2e8737555607cf7c171c5f099549ad885a51793",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-01-15T14:03:36Z",
+  "github_actions": {
+    "run_url": "https://github.com/sajid-01/reflena-leaderboard/actions/runs/21034018492",
+    "run_logs_url": "https://api.github.com/repos/sajid-01/reflena-leaderboard/actions/runs/21034018492/logs",
+    "ref": "refs/heads/sajid-01-patch-5",
+    "sha": "d5c45d8b547cd33c442a6d03b33162fe863cdcca",
+    "repository_url": "https://github.com/sajid-01/reflena-leaderboard",
+    "workflow_ref": "sajid-01/reflena-leaderboard/.github/workflows/run-scenario.yml@refs/heads/sajid-01-patch-5",
+    "workflow_sha": "d5c45d8b547cd33c442a6d03b33162fe863cdcca"
+  }
+}
