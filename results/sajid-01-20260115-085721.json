@@ -1,0 +1,15 @@
+{
+  "participants": {
+    "purple": "019bc0ce-e032-70c3-86ec-b62e2e527a22"
+  },
+  "results": [
+    {
+      "task": "reverse_string",
+      "input": "hello",
+      "expected": "olleh",
+      "actual": "olleh",
+      "score": 1,
+      "accuracy": 1.0
+    }
+  ]
+}
