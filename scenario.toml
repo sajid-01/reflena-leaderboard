@@ -1,15 +1,11 @@
 [green_agent]
-agentbeats_id = ""
-env = { API_KEY = "${GITHUB_SECRET_NAME}", LOG_LEVEL = "INFO" }
+agentbeats_id = "019bc0cd-8365-7ae2-8499-8d46332e06f6"
+env = { LOG_LEVEL = "INFO" }
 
 [[participants]]
+#add your purple agent agnetbeats id here. Note:Please do not change purple agent name here leave it as: name = "purple"
 agentbeats_id = ""
-name = "role_1_name"
-env = {}
-
-[[participants]]
-agentbeats_id = ""
-name = "role_2_name"
+name = "purple"
 env = {}
 
 [config]
