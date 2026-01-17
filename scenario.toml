@@ -4,7 +4,7 @@ env = { LOG_LEVEL = "INFO" }
 
 [[participants]]
 #add your purple agent agnetbeats id here. Note:Please do not change purple agent name here leave it as: name = "purple"
-agentbeats_id = ""
+agentbeats_id = "019bc0ce-e032-70c3-86ec-b62e2e527a22"
 name = "purple"
 env = { GEMINI_API_KEY = "${GEMINI_API_KEY}" }
 
