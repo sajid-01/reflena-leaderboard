@@ -6,7 +6,7 @@ env = { LOG_LEVEL = "INFO" }
 #add your purple agent agnetbeats id here. Note:Please do not change purple agent name here leave it as: name = "purple"
 agentbeats_id = ""
 name = "purple"
-env = {}
+env = { GEMINI_API_KEY = "${GEMINI_API_KEY}" }
 
 [config]
 # Add your assessment config here
